@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ASPGNHS
+- I'm a Medical physicist trying to develop little tools to optimize my work (and my department's) in radaition protection.
+- I know a little Matlab and I'm trying to convert to python to make it easier to share my code with my colleages
